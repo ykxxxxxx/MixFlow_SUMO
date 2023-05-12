@@ -1,0 +1,4 @@
+<additionals>
+    <vType id="icv" guiShape="passenger/sedan" length="4" width="2" accel="2" decel="4" sigma="0.5" tau="1.0" minGap="2" maxSpeed="50" laneChangeModel="0"/>
+    <vType id="chv" guiShape="passenger/van" length="5" width="2" accel="2" decel="4" sigma="0.5" tau="1.0" minGap="2" maxSpeed="40" laneChangeModel="0"/>
+</additionals>
